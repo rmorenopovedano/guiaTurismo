@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guía Turística</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Opciones</string>
+    <string name="selecciona_una_opcion">Selecciona una opción:</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
